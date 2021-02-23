@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mkaiho/ts-react-setup-sample/issues"
   },
-  "homepage": "https://github.com/mkaiho/ts-react-setup-sample#readme"
+  "homepage": "https://github.com/mkaiho/ts-react-setup-sample#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "typescript": "^4.1.5"
+  }
 }
