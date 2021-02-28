@@ -17,8 +17,14 @@
     "url": "https://github.com/mkaiho/ts-react-setup-sample/issues"
   },
   "homepage": "https://github.com/mkaiho/ts-react-setup-sample#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
   "devDependencies": {
     "@types/node": "^14.14.31",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
     "ts-loader": "^8.0.17",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.2",
