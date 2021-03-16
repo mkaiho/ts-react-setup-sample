@@ -1,5 +1,6 @@
 # ts-react-setup-sample
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![mkaiho](https://circleci.com/gh/mkaiho/ts-react-setup-sample.svg?style=shield)](https://app.circleci.com/pipelines/github/mkaiho/ts-react-setup-sample)
 [![codecov](https://codecov.io/gh/mkaiho/ts-react-setup-sample/branch/main/graph/badge.svg?token=6TXFXUVBRL)](https://codecov.io/gh/mkaiho/ts-react-setup-sample)
 
